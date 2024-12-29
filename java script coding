@@ -1,6 +1,7 @@
 console.log ("WELCOME TO JAVASCRIPT");
 let a = 5;
 let b = 2;
+console.log ("types of operators");
 console.log ("OPERATORS");
 console.log("a + b =",a + b);
 console.log("a - b =",a - b);
